@@ -2,7 +2,7 @@
 
 - 📚 Always learning 
 - 🤓 Working on my personal site 
-- 🧠 Improving my english and technical skills 
+- 🧠 Improving my English and technical skills 
 - 💻 Looking for remote positions
 <!--
 **fpineda3105/fpineda3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
