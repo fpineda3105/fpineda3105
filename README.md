@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📚 Always learning 
+- 🏋 Raising the bar
 - 🤓 Working on my personal site 
 - 🧠 Improving my English and technical skills 
 - 💻 Looking for remote positions
