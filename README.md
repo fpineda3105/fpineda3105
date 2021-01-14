@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🕵 Love Problem solving
 - 📚 Always learning 
 - 🏋 Raising the bar
 - 🤓 Working on my personal site 
